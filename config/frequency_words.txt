@@ -68,6 +68,7 @@ openai
 
 claude
 Anthropic
+IDE
 
 苹果
 库克
